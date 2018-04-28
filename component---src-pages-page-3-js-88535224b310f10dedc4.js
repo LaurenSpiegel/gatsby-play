@@ -1,0 +1,2 @@
+webpackJsonp([0x81ce6852476c],{196:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(5),n=a(l),c=u(98),d=a(c);t.default=function(){return n.default.createElement("div",null,n.default.createElement("p",null,"Getting fancy with my third Gatsby page"),n.default.createElement(d.default,{to:"/"},"back home"))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-page-3-js-88535224b310f10dedc4.js.map
