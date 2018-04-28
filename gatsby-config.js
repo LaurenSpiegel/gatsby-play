@@ -1,3 +1,3 @@
-{
-    pathPrefix: "/reponame"
+module.exports = {
+    pathPrefix: `/gatsby-play`,
 }
